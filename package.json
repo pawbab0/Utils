@@ -5,9 +5,9 @@
   "unity": "6000.3",
   "unityRelease": "8f1",
   "description": "Jest to paczka narz\u0119dziowa dla programist\u00f3w Unity, kt\u00f3ra \u0142\u0105czy architektoniczne wzorce programistyczne z gotowymi rozwi\u0105zaniami graficznymi (shaderami), pomagaj\u0105c w budowaniu modularnego i skalowalnego kodu gry.",
-  "changelogUrl": "",
-	"documentationUrl": "",
-	"licensesUrl": "https://github.com/pawbab0/Utils/blob/main/LICENSE",
+  "changelogUrl": "https://github.com/pawbab0/Utils/blob/main/CHANGELOG.md",
+  "documentationUrl": "",
+  "licensesUrl": "https://github.com/pawbab0/Utils/blob/main/LICENSE",
   "dependencies": {
     "com.unity.test-framework": "1.6.0"
   },

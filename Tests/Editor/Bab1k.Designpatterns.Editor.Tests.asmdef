@@ -1,0 +1,14 @@
+{
+    "name": "Bab1k.Designpatterns.Editor.Tests",
+    "references": [
+        "Bab1k.Designpatterns.Editor",
+        "Bab1k.Designpatterns"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Bab1k.Designpatterns.Editor",
+    "references": [
+      "Bab1k.Designpatterns"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

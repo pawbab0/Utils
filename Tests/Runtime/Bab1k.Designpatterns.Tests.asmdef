@@ -1,0 +1,11 @@
+{
+    "name": "Bab1k.Designpatterns.Tests",
+    "references": [
+        "Bab1k.Designpatterns"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

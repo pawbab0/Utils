@@ -1,7 +1,7 @@
 {
   "name": "com.pawbab",
   "displayName": "PawBab - Utils",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "unity": "6000.3",
   "unityRelease": "8f1",
   "description": "Jest to paczka narz\u0119dziowa dla programist\u00f3w Unity, kt\u00f3ra \u0142\u0105czy architektoniczne wzorce programistyczne z gotowymi rozwi\u0105zaniami graficznymi (shaderami), pomagaj\u0105c w budowaniu modularnego i skalowalnego kodu gry.",

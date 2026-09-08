@@ -2,6 +2,12 @@
 Wszystkie zmiany w tej paczce będą dokumentowane w tym pliku.
 
 
+## [0.1.2] - 2026-09-08
+
+### Fixed
+- Usunięto nieprawidłowy plik `Samples~.meta` z katalogu głównego paczki, który powodował ostrzeżenia/spam w konsoli Unity przy imporcie paczki przez UPM (*"A meta data file (.meta) exists but its folder 'Packages/com.pawbab/Samples~' can't be found"*).
+
+
 ## [0.1.1] - 2026-07-28
 
 ### Added

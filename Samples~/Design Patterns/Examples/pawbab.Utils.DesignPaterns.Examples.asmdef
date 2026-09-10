@@ -1,8 +1,10 @@
 {
-    "name": "pawbab.DesignPatterns",
+    "name": "pawbab.Utils.DesignPaterns.Examples",
     "rootNamespace": "",
     "references": [
-        "Bab1k.Designpatterns"
+        "pawbab.Utils.DesignPaterns",
+        "Unity.TextMeshPro",
+        "Unity.InputSystem"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

@@ -1,5 +1,5 @@
 {
-    "name": "pawbab.DesignPatterns",
+    "name": "pawbab.Utils.DesignPaterns",
     "rootNamespace": "",
     "references": [
         "Bab1k.Designpatterns"

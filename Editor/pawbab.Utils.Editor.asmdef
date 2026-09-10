@@ -1,5 +1,5 @@
 {
-    "name": "Bab1k.Designpatterns.Editor",
+    "name": "pawbab.Utils.Editor",
     "references": [
       "Bab1k.Designpatterns"
     ],

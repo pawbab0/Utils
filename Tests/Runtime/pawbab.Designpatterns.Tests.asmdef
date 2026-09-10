@@ -1,7 +1,7 @@
 {
-    "name": "Bab1k.Designpatterns.Tests",
+    "name": "pawbab.Designpatterns.Tests",
     "references": [
-        "Bab1k.Designpatterns"
+        "pawbab.Utils.Runtime"
     ],
     "optionalUnityReferences": [
         "TestAssemblies"

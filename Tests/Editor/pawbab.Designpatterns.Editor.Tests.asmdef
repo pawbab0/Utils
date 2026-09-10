@@ -1,8 +1,8 @@
 {
-    "name": "Bab1k.Designpatterns.Editor.Tests",
+    "name": "pawbab.Designpatterns.Editor.Tests",
     "references": [
-        "Bab1k.Designpatterns.Editor",
-        "Bab1k.Designpatterns"
+        "pawbab.Utils.Editor",
+        "pawbab.Utils.Runtime"
     ],
     "optionalUnityReferences": [
         "TestAssemblies"
